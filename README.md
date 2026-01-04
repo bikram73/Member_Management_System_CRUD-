@@ -1,6 +1,6 @@
 # Member Management System
 
-A Django-based web application for managing member information with full CRUD (Create, Read, Update, Delete) operations.
+A Django-based web application for managing member information with full CRUD (Create, Read, Update, Delete) operations. 
 
 ## Project Overview
 
